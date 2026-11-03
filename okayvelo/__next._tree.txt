@@ -1,2 +1,2 @@
-:HL["/_next/static/css/d67ffa7e354f54d3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"okayvelo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"c3vcLthIRM0uq7jNDYoqc"}
+:HL["/_next/static/css/c927f6a8e1134302.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"okayvelo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WL6wva6dl3_54CNXLKpdy"}
