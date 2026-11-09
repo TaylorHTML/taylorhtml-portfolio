@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[2399,[],"ClientPageRoot"]
-3:I[6154,["239","static/chunks/app/okayvelo/page-05327c561f33ee85.js"],"default"]
-6:I[8855,[],"OutletBoundary"]
+2:I[1304,[],"ClientPageRoot"]
+3:I[4432,["239","static/chunks/app/okayvelo/page-15c8af1a2568ce83.js"],"default"]
+6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WL6wva6dl3_54CNXLKpdy"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_HIKMJR798TVTErm_WjBB"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
